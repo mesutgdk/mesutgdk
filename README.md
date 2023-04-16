@@ -1,5 +1,5 @@
 
-- 👋 I'm Mesut, I'm IOS Developer.
+- 👋 Hi there! I'm Mesut, I'm IOS Developer.
 - 🧨 I’m currently learning Swift
 - 👀 I’m looking to collaborate on Mobile App Projects🔭
 - 📡 How to reach me: mesuttgedik@gmail.com
