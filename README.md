@@ -1,5 +1,8 @@
-### Hi there 👋
 
+- 👋 I'm Mesut, I'm IOS Developer.
+- 🧨 I’m currently learning Swift
+- 👀 I’m looking to collaborate on Mobile App Projects🔭
+- 📡 How to reach me: mesuttgedik@gmail.com
 <!--
 **mesutgdk/mesutgdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
