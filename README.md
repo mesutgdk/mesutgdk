@@ -1,6 +1,7 @@
 
   
-- 👋 Hi There! I'm Mesut, I'm IOS Developer.  ![Hello_there](https://github.com/mesutgdk/mesutgdk/assets/112901255/0c2c868f-3f61-4d29-9456-ee23eaf9b73e)
+- 👋 Hi There! I'm Mesut, I'm IOS Developer. ![Hello_there](https://github.com/mesutgdk/mesutgdk/assets/112901255/44a51014-49c1-405c-be60-c9284a8d6c36)
+
 
 - 📡 How to reach me: mesuttgedik@gmail.com
 <!--
