@@ -1,5 +1,5 @@
 
-- 👋 ![Hello_there](https://github.com/mesutgdk/mesutgdk/assets/112901255/d74e968d-bf13-414e-a7ee-a3cce2d2c993) I'm Mesut, I'm IOS Developer.
+- 👋 ![Hello_there](https://github.com/mesutgdk/mesutgdk/assets/112901255/0c2c868f-3f61-4d29-9456-ee23eaf9b73e)I'm Mesut, I'm IOS Developer.
 
 - 📡 How to reach me: mesuttgedik@gmail.com
 <!--
