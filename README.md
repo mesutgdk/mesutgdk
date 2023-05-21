@@ -1,11 +1,14 @@
 
   
-- 👋 Hi There! I'm Mesut, I'm IOS Developer. ![Hello_there](https://github.com/mesutgdk/mesutgdk/assets/112901255/51016b24-5932-4e83-bd3f-f879a33ad449)
+# 👋 Hi There! I'm Mesut
 
-
+## A passionate IOS Developer.
+![Hello_there](https://github.com/mesutgdk/mesutgdk/assets/112901255/51016b24-5932-4e83-bd3f-f879a33ad449)
 
 
 - 📡 How to reach me: mesuttgedik@gmail.com
+
+
 <!--
 **mesutgdk/mesutgdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
