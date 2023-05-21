@@ -4,7 +4,7 @@
 
 ##                          A passionate IOS Developer.
 
-
+- 💬 Ask me about Swift, SwiftUI, iOS ...
 - 📡 How to reach me: mesuttgedik@gmail.com
 
 
