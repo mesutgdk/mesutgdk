@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesutgdk&label=Profile%20views&color=0e75b6&style=flat" alt="mesutgdk" /> </p>
 
-- 💬 **Ask me about Swift, SwiftUI, iOS**
+- 💬 **Ask me about Swift, SwiftUI,  iOS/Android, Java**
 
 - 📫 How to reach me **mesuttgedik@gmail.com**
 
